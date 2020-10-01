@@ -42,7 +42,7 @@ then visit 'http://localhost:3000' in your browser.
 
 
 ### Want a production setup? Having trouble with install script? Want to install D* the slow way?
-  Look to more specific install guides [here](https://github.com/diaspora/diaspora/wiki/Installation-Guides).
+  Look for more specific install guides [here](https://github.com/diaspora/diaspora/wiki/Installation-Guides).
 
 ## Contributing
 We love community contributions, and we work extra hard to make sure every code contribution is looked at and given feedback. 
